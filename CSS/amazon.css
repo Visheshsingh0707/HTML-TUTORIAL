@@ -1,0 +1,207 @@
+*{margin:0px;
+border:border-box;
+font-family:arial}
+.navbar{height:60px;
+background-color:#0f1111;
+color:white;
+display:flex;
+align-items:center;
+justify-content: space-evenly;}
+/* for box 1 */
+.nav-logo{height:50px;width:100px}
+.logo{background-image: url(amazonlogo.png);background-size: cover;
+height:50px;
+width:100px}
+.border{border:1.5px solid transparent}
+.border:hover{border:1.5px solid white}
+/* for box 2 */
+.first{color:#cccccc;font-size: 0.9rem;
+    margin-left: 15px;
+}
+.second{font-size:1.1rem;
+margin-left: 3px;}
+.addicon{display:flex;
+align-items: center;}
+/* for box 3 */
+.navsearch{display:flex;background-color: antiquewhite;
+height:35px;
+width:620px;
+border-radius: 4px;
+justify-content: space-evenly;}
+.navsearch:hover{border:3px solid rgb(171, 94, 22)}
+.searchall{background-color: #f3f3f3;
+width:50px;
+text-align: center;
+border: none;
+border-top-left-radius: 4px;border-bottom-left-radius: 4px;
+}
+.searchinput{width:100%;
+font-size:1rem;
+border: none;
+
+}
+.searchicon{width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: rgb(225, 116, 14);
+    font-size: 1.2rem;
+    border-top-right-radius: 4px;border-bottom-right-radius: 4px
+}
+/* for box 4,5 */
+span{font-size: 0.7rem;}
+.nav-second{font-size: 0.85rem;
+font-weight: 700;}
+
+/* for box 6 */
+.nav-cart{font-size:0.85rem;
+ font-weight: 700;}
+ .nav-cart i{font-size: 28px;}
+/* for panel */
+.panel{height:40px;
+    color:white;
+background-color: #222f3d;
+display: flex;
+align-items: center;
+justify-content: space-evenly;}
+.panel-opt p{display:inline;
+margin-left: 18px;}
+.panel-opt{width:75%;
+    font-size:0.85rem;}
+.panel-deals{font-size:0.9rem;
+font-weight: 700;}
+/* for hero section */
+.hero-section{background-image: url(amazon1.jpg);
+background-size: cover;
+height:350px;
+display:flex;
+justify-content: center;
+align-items:flex-end;}
+.hero-mssg{background-color: white;
+color:black;
+height:40px;
+display:flex;
+justify-content: center;
+align-items: center;
+font-size:0.9rem;
+width:80%;
+margin-bottom:15px}
+.hero-mssg a{color:#007185}
+/* for shop section */
+.shop-section{display:flex;
+    flex-wrap: wrap;
+justify-content:space-evenly;
+background-color: #d0f4de;}
+.box{height:400px;width: 23%;
+margin-top: 10px;
+background-color: white;
+padding:20px 0px 15px;}
+/* for homedecor */
+.decorlogo{height:330px;
+margin-top: 1rem;
+margin-bottom: 1rem;
+background-size: cover;}
+.decor-content{margin-left: 1rem;
+margin-right: 1rem;}
+.decor-content p{color:#007185}
+/* for footer */
+footer{margin-top:10px}
+.foot-panel{height:50px;
+    color:white;
+background-color: #37475a;
+font-size:0.9rem;
+display: flex;
+justify-content: center;
+align-items: center;}
+/* for foot-panel2 */
+.foot-panel2{background-color: #222f3d;
+color:white;
+height:600px;
+display: flex;
+justify-content: space-evenly;}
+ul{margin-top: 15px;}
+ul a{display:block;
+font-size: 0.9rem;
+margin-top: 10px;
+color:#dddddd}
+.foot-panel2 p{ font-weight: 700;
+font-size:1rem}
+/* for foot-panel3 */
+.foot-panel3{height:70px;
+color:white;
+background-color: #222f3d;
+display: flex;
+justify-content: center;
+align-items: center;
+border-top: 0.5px solid white;
+}
+/* for foot-panel4 */
+.foot-panel4{background-color: #0f1111;
+color: white;
+height:70px;
+font-size:0.85rem;
+text-align:center
+}
+.pages{padding:25px}
+.copyright{padding:5px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+#box1{height:300px;width: 300px;background-color: pink;font-size:30px}
+#box2{height: 40%;width:5em;background-color:yellowgreen;font-size:2em}
+#box3{height:50vh;width: 5rem;background-color: rgb(232, 68, 39);font-size:2rem}
+div{height:200px;width:200px;background-color: aquamarine;border:3px dotted black;display:inline-block}
+#one{position:static;
+    TOP:20000px}
+#two{position:relative;
+top: 20px;
+left:30px}
+/* if we set position to be adsolute for box 3 then for box three parent is body tag hence it will change its position according to it(i.e:if you set top:10px then it will change its position acoording to the top of the page and box 3 will be 10px apart from top of the page*/
+#three{position:absolute; top:1000px}
+/* position fixed ka mtlb yeh hai ki ik to position screen ke hisab se change hogi aur neeche scroll krne par bhi vo dikhti rhegi */
+#four{position: fixed;top: 500px;right:10px}
+#five{ position:sticky;top: 40px;}
+#six{background-image: url(photo.jpg);}
+/* image khafi inlarged dikhe gi isliye use bhi set krna pade ga */
+
+#seven{background-image: url(photo.jpg);
+background-size: cover; }
+#eight{background-image: url(photo.jpg);
+background-size: contain;}
+#nine{background-image: url(photo.jpg);
+background-size: contain;
+background-repeat: no-repeat;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

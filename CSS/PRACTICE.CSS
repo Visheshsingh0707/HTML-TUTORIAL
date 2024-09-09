@@ -1,0 +1,70 @@
+#box{background-color: blue;
+color: aquamarine;}
+.heading{color:red;}
+#one{text-align:center;
+text-transform: capitalize}
+#two{font-family:'Times New Roman'}
+#outer{font-size: 25px;}
+#inner{font-size:10px}
+.class{height:100px;
+width:100px;
+background-color:green;
+border-radius:50%}
+this is for navbar
+div{height: 60px;}
+#link{color:#f08804;
+font-size:25px;
+}
+a{margin-right: 200px;
+color:white;
+}
+#buton{background-color:#f08804;
+color:white}
+.content{height:100px;
+width:100px;
+border:3px solid blue;
+background-color: rgba(59, 121, 229, 0.5);
+margin:25px;
+}
+#contnet{height:700px}
+footer{COLOR:WHITE;background-color: black;
+text-align: center;}
+#vishu{height:300px;
+width:300px;background-image: url(photo.jpg)
+;background-size: cover;position:relative;left:1200px;color: aliceblue
+}
+ul{background-color: rgb(234, 234, 121);
+display:flex; flex-direction:row;justify-content: space-evenly;
+}
+li{list-style-type:none;}
+#p{text-decoration: none;color:black}
+#bahar{height: 400px;width: 400px;background-color: pink;display:flex;justify-content: center;align-items: center;}
+#andar{height: 100px;width:100px; background-color: azure;}
+#singh{height:400px;width:400px;background-color: blueviolet;}
+@media(max-width:300px){
+div{background-color: green;}
+}
+@media(min-width:300px)and(max-width:400px){
+    div{background-color: pink;}
+}
+@media(min-width:400px)and(max-width:600px){
+    div{background-color:red}
+}
+#loader{height:100px;width:100px;
+border:15px solid pink;
+border-top: 15px solid rgb(69, 3, 3);
+border-radius: 50%;
+animation:spinanimate 2s linear 1s infinite normal}
+@keyframes spinanimate{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+*{color:black(241, 170, 83)}
+h1{ color:orangered}
+pre{color:rgb(255 255 255)}
+
+body{background-color:#625231}
+button{background-color: rgb(8, 63, 8);
+  color:#00ff00;}
+p{ 
+  color:rgb(255 255 255)
+}
+#align{text-align:center}
+#head{color:pink}
+#vit{color:rgb(82, 4, 94)} 
+.xyz{color:rgb(128, 216, 14)}
+.me{ text-decoration: blue underline;}
+.we{ text-decoration: red wavy underline;}
+.they{ text-decoration: pink line-through;}
+.there{text-decoration: underline dotted;}
+.you{ text-decoration: overline;}
+.myclass{color:rgb(119, 135, 153)}
+.if{text-decoration: rgb(236, 234, 234) solid underline;}
+#x{ font-weight: 900;}
+#y{ font-weight: 400;}
+#z{ font-weight: light;}
+.google{text-decoration: none;}
+#p{ font-family: 'Franklin Gothic Medium';}
+#q{ font-family:unset;}
+#r{ font-family:serif}
+.l{font-size: 50px;}
+.m{font-size: 100px;}
+.n{font-size: 25px;}
+#one{line-height:normal}
+#two{line-height:10px}
+#v{text-transform: uppercase;}
+#i{text-transform: lowercase;}
+#s{text-transform: capitalize;}
+#pig{height:200px;
+     width: 200px;
+    background-color: #a7daa7;
+  border-width:3px ;
+border-style: dashed;
+border-color: black;
+text-align:right}
+#hat{height:100px;
+width:400px;
+background-color: antiquewhite;
+border-width:3px;
+border-style:solid;
+border-color: aqua;
+text-align:center;
+border-radius:50%
+}
+#lol{border:4px double pink;
+border-radius:10px}
+#ol{height:100px;
+  width:100px;
+  border:4px double pink;
+  padding-left:30px;
+  margin-top:25px
+}
+#lot{height:100;
+  width:100px;
+  border:4px double pink;
+  padding:20px 30px 15px 20px;
+  margin:5px 15px 30px 10px;
+}
+#lo{height:100px;
+  width:100px;
+  border:4px double pink;
+  }
+  /* this to convert block element into inline element (but top and bottom margin does not exists in this for that we use inline block property).Part1 shows normal div .Par2 shows div converted to inline and part3 shows block inline propert.since scc me sirf baad wale ko priorty milti hai isliye sirf last vala wart code hoga. */
+ div{height:100px;
+width:100px;
+margin:50px;
+padding:30px;
+background-color: #a7daa7;
+} 
+div{height:100px;
+  width:100px;
+  background-color: #a7daa7;
+  display:inline;
+  margin:50px;
+  padding:30px;} 
+div{height:100px;
+    width:100px;
+    background-color: #a7daa7;
+    display:inline-block;
+    margin:50px;
+    padding:30px;} 
+ #tens{display:none}   
+#tenthousand{visibility:hidden}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
